@@ -1,0 +1,15 @@
+# Where is the AD Export file and JCL?
+config.downloads = C:\TWSz2UCD\TWSz2UCD\bin\debug\download
+
+# What's the network address of the UCD server?
+config.UCD = https://my.ucd.server:8443
+
+# What's the user and password for UCD?
+config.UCDuser = twszadmin
+config.UCDpassword = somepwd
+
+# Which UCD application should I install this AD into?
+config.UCDapplication = TWSz
+
+# Which UCD environment within the application should I install the AD against?
+config.UCDenvironment = Development

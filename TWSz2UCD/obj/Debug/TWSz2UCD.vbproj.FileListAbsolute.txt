@@ -1,0 +1,12 @@
+D:\AData\CODE\VB\TWSz2UCD\TWSz2UCD\bin\Debug\TWSz2UCD.exe.config
+D:\AData\CODE\VB\TWSz2UCD\TWSz2UCD\bin\Debug\TWSz2UCD.exe
+D:\AData\CODE\VB\TWSz2UCD\TWSz2UCD\bin\Debug\TWSz2UCD.pdb
+D:\AData\CODE\VB\TWSz2UCD\TWSz2UCD\bin\Debug\TWSz2UCD.xml
+D:\AData\CODE\VB\TWSz2UCD\TWSz2UCD\bin\Debug\Newtonsoft.Json.dll
+D:\AData\CODE\VB\TWSz2UCD\TWSz2UCD\bin\Debug\Newtonsoft.Json.xml
+D:\AData\CODE\VB\TWSz2UCD\TWSz2UCD\obj\Debug\TWSz2UCD.vbprojResolveAssemblyReference.cache
+D:\AData\CODE\VB\TWSz2UCD\TWSz2UCD\obj\Debug\TWSz2UCD.Resources.resources
+D:\AData\CODE\VB\TWSz2UCD\TWSz2UCD\obj\Debug\TWSz2UCD.vbproj.GenerateResource.Cache
+D:\AData\CODE\VB\TWSz2UCD\TWSz2UCD\obj\Debug\TWSz2UCD.exe
+D:\AData\CODE\VB\TWSz2UCD\TWSz2UCD\obj\Debug\TWSz2UCD.xml
+D:\AData\CODE\VB\TWSz2UCD\TWSz2UCD\obj\Debug\TWSz2UCD.pdb
